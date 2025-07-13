@@ -70,6 +70,6 @@ Min:1 e Max:80
 
 Este projeto é uma ótima introdução à manipulação de estruturas de dados em Python, especialmente árvores binárias e árvores binárias de busca.
 
-### 📖 Referencias
+### 📖 Referências
 
 esse código foi desenvolvido com ajuda do canal do youtube "Programação Dinâmica" com os vídeos da playlist a seguir https://www.youtube.com/playlist?list=PL5TJqBvpXQv7ipm2exZbbqwpFZc-TZ80s.
