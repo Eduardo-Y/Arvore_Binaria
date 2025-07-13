@@ -48,6 +48,7 @@ if __name__ == "__main__":
     ftree.levelorder_traversal()
 ````
 ### 📊 Ilustração
+
 <img width="2440" height="1298" alt="image" src="https://github.com/user-attachments/assets/3848b801-20eb-4373-a06e-cdc39efc1d63" />
 
 ### 💡 Saída Esperada
@@ -69,7 +70,6 @@ Min:1 e Max:80
 
 Este projeto é uma ótima introdução à manipulação de estruturas de dados em Python, especialmente árvores binárias e árvores binárias de busca.
 
----
+### 📖 Referencias
 
-Se quiser, posso gerar uma versão em inglês ou adicionar imagens/diagramas das árvores. Deseja isso também?
-```
+esse código foi desenvolvido com ajuda do canal do youtube "Programação Dinâmica" com os vídeos da playlist a seguir https://www.youtube.com/playlist?list=PL5TJqBvpXQv7ipm2exZbbqwpFZc-TZ80s.
